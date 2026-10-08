@@ -280,7 +280,7 @@ class SurveillanceAIMonitor(ctk.CTk):
     )
     self.entry_video_dir = ctk.CTkEntry(folder_frame, width=540)
     self.entry_video_dir.insert(
-        0, r"Z:/surveillance_camera/ATOM_7CDDE90127C1/record"
+        0, r"未指定"
     )
     self.entry_video_dir.grid(row=0, column=1, padx=5, pady=5)
     ctk.CTkButton(
@@ -292,7 +292,7 @@ class SurveillanceAIMonitor(ctk.CTk):
     )
     self.entry_save_dir = ctk.CTkEntry(folder_frame, width=540)
     self.entry_save_dir.insert(
-        0, r"Z:/surveillance_camera/ATOM_7CDDE90127C1/AI異常検出"
+        0, r"未指定"
     )
     self.entry_save_dir.grid(row=1, column=1, padx=5, pady=5)
     ctk.CTkButton(
