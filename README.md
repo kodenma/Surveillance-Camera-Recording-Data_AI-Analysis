@@ -1,4 +1,4 @@
-# 防犯カメラ AI 異常検知システム Pro (Surveillance AI Monitor Pro)
+# 防犯カメラ AI 異常検知システム (Surveillance AI Monitor)
 
 本プロジェクトは、定点防犯カメラの録画映像から異常や不審な動きを自動解析・検出するデスクトップ GUI アプリケーションです。
 
